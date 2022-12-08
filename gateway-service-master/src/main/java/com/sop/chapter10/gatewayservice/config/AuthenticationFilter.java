@@ -1,6 +1,4 @@
 package com.sop.chapter10.gatewayservice.config;
-
-
 import io.jsonwebtoken.Claims;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
